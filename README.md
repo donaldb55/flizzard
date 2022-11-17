@@ -1,2 +1,2 @@
 # flizzard
-this project is tested on browser stack 
+this project is tested on browser stacks
